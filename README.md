@@ -12,4 +12,17 @@ conda activate tknoChatbot
 
 '''
 
+'''bash
+pip install -r requirements.txt
+
+'''
+
+'''bash to create file structure
+python template.py
+
+'''
+
+
+
+
 
